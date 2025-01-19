@@ -43,7 +43,7 @@ const data = [
         id:4,
         title:"Portfolio",
         des:"This is a Portfolio project which is made by using next.js and custom.css.",
-        img:"/images/port-cus.png",
+        img:"/images/shah.PNG",
         link:"https://github.com/rabiasohail098/portfolio-custom-css",
         tag:["React","Node","Restful API","SCSS"]
     },

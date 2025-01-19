@@ -20,7 +20,7 @@ const Navbar = () => {
       <Link href="/skills" className="mr-5 hover:text-pink-700 font-semibold">Skills</Link>
       <Link href="/contact" className="mr-5 hover:text-pink-700 font-semibold">Contact</Link>
     </nav>
-      <Link href="/images/download.png">
+      <Link href="/images/cv_template_word_uk_3.png">
     <button className="inline-flex items-center btext-white bg-gray-300  text-black border-0 py-1 px-3 focus:outline-none hover:bg-slate-500 hover:text-white rounded text-base mt-4 md:mt-0">
       Download CV
       <AiOutlineCloudDownload className="text-xl ml-2"/>   
